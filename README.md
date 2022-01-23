@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Sadhasivam
-- 👀 I’m interested in Web and Software development
+- 👋 Hey, I’m Sadhasivam
+- 👀 I’m a imminent Full stack and android developer
 - 🌱 I’m currently learning React library
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me <https://twitter.com/stark_siv?s=09> <https://www.linkedin.com/in/sadhasivam-s-559610212>
+- 📫 How to reach me 
+- LinkedIn: https://www.linkedin.com/in/ishidaa-asahi/
+- Twitter: https://twitter.com/Ishidaa_Asahi 
 
 <!---
 starksiv/starksiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
