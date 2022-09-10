@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Sadhasivam
-- 👀 I’m an imminent Front-End and UI/UX Designer
+- 👀 I’m an UI/UX Designer and Front-End Developer
 - 🌱 I’m currently learning React library
 - 💞️ I’m looking to work together on Projects, hackathons, competitions.
 - 📫 How to reach me 👇
