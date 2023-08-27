@@ -1,7 +1,5 @@
-- 👋 Hey, I’m Sadhasivam, I go by the name Ishidaa Asahi.
-- 👀 I’m an UI/UX Designer and Front-End Developer
-- 🌱 I’m currently learning React library
-- 💞️ I’m looking to work together on Projects, hackathons, competitions.
+- 👋 Hey, I’m Sadhasivam.
+- 👀 I’m an UI/UX Designer and a Front-End Developer
 - 📫 How to reach me 👇
 - LinkedIn: https://www.linkedin.com/in/sadhasivam-s/
 - Twitter: https://twitter.com/designsBySadha
