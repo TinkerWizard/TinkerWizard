@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Sadhasivam.
-- 👀 I’m an UI/UX Designer and a Front-End Developer
+- 👀 I’m Software Developer
 - 📫 How to reach me 👇
 - LinkedIn: https://www.linkedin.com/in/sadhasivam-s/
 <!---
