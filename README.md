@@ -1,6 +1,4 @@
-- 👋 Hey, I’m Sadhasivam.
-- 👀 I’m Software Developer
-- 📫 How to reach me 👇
+- 👋 Heyyy Nerds! I’m Sadhasivam, a Software Dev Engineer who loves to tinker with code to make the magic happen. 😁
 - LinkedIn: https://www.linkedin.com/in/sadhasivam-s/
 <!---
 TinkerWizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
