@@ -82,8 +82,9 @@ Focusing on:
 - ML and DL
 
 ## 📊 GitHub Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinkerWizard&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TinkerWizard&layout=compact&theme=radical)
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TinkerWizard&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TinkerWizard&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TinkerWizard&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🤝 Let's Connect
 Interested in innovative tech projects, collaboration, or just a tech discussion? Reach out! 
